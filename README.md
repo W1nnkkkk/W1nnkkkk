@@ -12,5 +12,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W1nnkkkk)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArtemSoftware2006&theme=dark&background=000000)](https://git.io/streak-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemSoftware2006&theme=solarized_dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=W1nnkkk&theme=dark&background=000000)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W1nnkkkk&theme=solarized_dark)
