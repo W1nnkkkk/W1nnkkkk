@@ -5,8 +5,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=W1nnkkkk&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=W1nnkkkk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=W1nnkkkk&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W1nnkkkk&theme=solarized_dark)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=W1nnkkkk&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4)
 
